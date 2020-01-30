@@ -1,0 +1,2 @@
+SLACK := Searchable Log of All Content and Knowledge
+GIT := unpleasant person in British English slang
